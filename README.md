@@ -2,10 +2,9 @@
 <div>
 <h3>About Me :</h3>
 <ul>
-<li>👾 Part of Pinely International</li>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
 <li>💻 MERN Stack Developer</li>
-<li>📫 How to reach me: adam.kafia@pinely.eu</li>
+<li>📫 How to reach me: adam.kafia99@gmail.com</li>
 </ul>
 
 <div>
